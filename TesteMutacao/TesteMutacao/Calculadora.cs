@@ -4,7 +4,7 @@ namespace TesteMutacao
 {
     public class Calculadora
     {
-        public int Soma(int primeiroNumero, int segundoNumero) {
+        public int Somar(int primeiroNumero, int segundoNumero) {
 
             if (segundoNumero != default)
                 primeiroNumero += segundoNumero;
