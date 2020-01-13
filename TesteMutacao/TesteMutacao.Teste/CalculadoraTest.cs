@@ -8,13 +8,16 @@ namespace TesteMutacao.Teste
         [TestMethod]
         public void Somar_RecebendoDoisNumeros_SomarOsDois()
         {
-
+            //Preparação
             var primeiroNumero = 1;
             var segundoNumero = 2;
+            var resultadoEsperado = 3;
 
-            var resultado = new Calculadora().Somar(primeiroNumero, segundoNumero);
+            //Ação
+            var resultadoRecebido = new Calculadora().Somar(primeiroNumero, segundoNumero);
 
-            Assert.IsNotNull(resultado);
+            //Checagem
+            Assert.AreEqual(resultadoEsperado, resultadoRecebido);
         }
     }
 }

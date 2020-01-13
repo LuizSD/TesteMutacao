@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>TesteMutacao.Teste</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>315adb4e-2459-4194-b0c2-784f8b1173d4</ProjectGuid>
+  <FullPath>C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\TesteMutacao.Teste.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Projetos\TesteMutacao\TesteMutacao\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.Teste.dll.RoslynCA.json|C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.Teste.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Projetos\TesteMutacao\TesteMutacao\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp2.1</TargetFramework>
+</ProjectInfo>
