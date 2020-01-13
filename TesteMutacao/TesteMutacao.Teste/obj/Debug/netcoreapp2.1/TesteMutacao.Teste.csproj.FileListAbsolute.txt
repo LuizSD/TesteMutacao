@@ -4,14 +4,13 @@ C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.Teste.deps.json
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.Teste.runtimeconfig.json
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.Teste.runtimeconfig.dev.json
+C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.AssemblyInfoInputs.cache
+C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.AssemblyInfo.cs
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.Teste.dll
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.Teste.pdb
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.dll
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\bin\Debug\netcoreapp2.1\TesteMutacao.pdb
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.csprojAssemblyReference.cache
-C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.csproj.CoreCompileInputs.cache
-C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.AssemblyInfoInputs.cache
-C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.AssemblyInfo.cs
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.csproj.CopyComplete
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.dll
 C:\Projetos\TesteMutacao\TesteMutacao\TesteMutacao.Teste\obj\Debug\netcoreapp2.1\TesteMutacao.Teste.pdb
