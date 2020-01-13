@@ -15,7 +15,6 @@ namespace TesteMutacao.Teste
             var resultado = new Calculadora().Somar(primeiroNumero, segundoNumero);
 
             Assert.IsNotNull(resultado);
-
         }
     }
 }
